@@ -7,3 +7,5 @@ echo "------------------------"
 
 echo "Hello $(pwd)"
 echo "This is a first testing branch"
+
+echo "there is a bike"
