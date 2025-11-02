@@ -6,3 +6,7 @@ echo "Today date is: $(date)"
 echo "------------------------"
 
 echo "Hello $(pwd)"
+echo "This is a first testing branch"
+
+
+echo "my dear"
